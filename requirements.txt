@@ -1,0 +1,22 @@
+# OpenCV for video processing and image handling
+opencv-python
+
+# Data manipulation and analysis
+pandas
+numpy
+
+# YOLO object detection models
+ultralytics
+
+# Machine learning models and preprocessing
+scikit-learn
+
+# For saving/loading trained models
+joblib
+
+# Web app dashboard
+streamlit
+
+# Visualization
+matplotlib
+seaborn
