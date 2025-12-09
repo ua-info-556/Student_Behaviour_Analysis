@@ -17,7 +17,7 @@ Installation
 --------------------------------------------------------------------------------------------
   Clone the repository: 
   
-  ```git clone <your-repo-url>```
+  ```git clone https://github.com/ua-info-556/Student_Behaviour_Analysis.git```
   ```cd student-behavior-analysis```
 
   Install dependencies: ```pip install -r requirements.txt``` 
